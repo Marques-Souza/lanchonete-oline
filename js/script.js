@@ -14,7 +14,7 @@ function getCategory() {
     hamburgers: "Hambúrgueres",
     pizzas: "Pizzas",
     hotDogs: "HotDogs",
-    drinks: "Bebidas",
+    drinks: "Drinks",
   };
 
   fetch("db.json")
