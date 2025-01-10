@@ -26,15 +26,10 @@ function getCategory() {
           `#${category.toLowerCase()}`
         );
         if (categoryDiv) {
-          // Obter a tradução ou usar o nome original
           let categoryName = categoryTranslations[category] || category;
-
-          // Criar o título da categoria
           const categoryTitle = document.createElement("h2");
           categoryTitle.textContent = categoryName;
           categoryDiv.appendChild(categoryTitle);
-
-          // Exibir os produtos da categoria
           displayCategoryProducts(products[category], categoryDiv);
         }
       }
@@ -156,7 +151,7 @@ function addToCart(name, price) {
     const isMobile = window.innerWidth <= 768;
     Toastify({
       text: `"${name}" foi adicionado ao carrinho!`,
-      duration: 3000,
+      duration: 2000,
       gravity: "top",
       position: isMobile ? "center" : "right",
       style: {
