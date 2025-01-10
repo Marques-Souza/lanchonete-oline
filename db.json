@@ -1,0 +1,292 @@
+{
+  "products": {
+    "hamburgers": [
+      {
+        "id": 1,
+        "name": "Hambúrguer Clássico",
+        "price": 19.9,
+        "description": "Pão de brioche, carne suculenta de 180g, queijo cheddar, alface, tomate e maionese artesanal",
+        "image": "assets/hamburguer/Hamburguer-Classico.png"
+      },
+      {
+        "id": 2,
+        "name": "Cheddar Bacon",
+        "price": 22.9,
+        "description": "Pão de brioche, carne de 180g, queijo cheddar derretido, bacon crocante, alface e molho especial",
+        "image": "assets/hamburguer/Cheddar-Bacon.png"
+      },
+      {
+        "id": 3,
+        "name": "Burger Vegano",
+        "price": 21.5,
+        "description": "Pão integral, hambúrguer de grão-de-bico, abacate, alface, tomate e molho vegano",
+        "image": "assets/hamburguer/Burger-Vegano.png"
+      },
+      {
+        "id": 4,
+        "name": "Bacon BBQ",
+        "price": 23.9,
+        "description": "Pão de brioche, carne de 180g, queijo cheddar, bacon crocante, cebola caramelizada e molho barbecue",
+        "image": "assets/hamburguer/Bacon-BBQ.png"
+      },
+      {
+        "id": 5,
+        "name": "Hawaian Burger",
+        "price": 25.0,
+        "description": "Pão de brioche, carne de 180g, queijo suíço, abacaxi grelhado, presunto e molho teriyaki",
+        "image": "assets/hamburguer/Hawaian-Burger.png"
+      },
+      {
+        "id": 6,
+        "name": "Double Cheeseburger",
+        "price": 29.9,
+        "description": "Pão de brioche, duas carnes de 180g, queijo cheddar, alface, tomate e molho especial",
+        "image": "assets/hamburguer/Double-Cheeseburger.png"
+      },
+      {
+        "id": 7,
+        "name": "Burger Fritas",
+        "price": 26.0,
+        "description": "Pão de brioche, carne de 180g, queijo cheddar, bacon, cebola frita, alface e batata frita crocante",
+        "image": "assets/hamburguer/Burger-Fritas.png"
+      },
+      {
+        "id": 8,
+        "name": "Tex-Mex Burger",
+        "price": 24.9,
+        "description": "Pão de brioche, carne de 180g, queijo cheddar, guacamole, jalapeño e molho picante",
+        "image": "assets/hamburguer/Tex-Mex-Burger.png"
+      },
+      {
+        "id": 9,
+        "name": "Hambúrguer de Frango Crocante",
+        "price": 21.0,
+        "description": "Pão de brioche, filé de frango empanado crocante, queijo cheddar, alface, tomate e maionese caseira",
+        "image": "assets/hamburguer/Hamburguer-Frango.png"
+      },
+      {
+        "id": 10,
+        "name": "Melt Burger",
+        "price": 27.0,
+        "description": "Pão de brioche, carne de 180g, queijo cheddar, queijo muçarela derretido, bacon crocante e molho de mostarda e mel",
+        "image": "assets/hamburguer/Melt-Burger.png"
+      }
+    ],
+    "pizzas": [
+      {
+        "id": 1,
+        "name": "Pizza de Calabresa Especial",
+        "price": 42.9,
+        "description": "Calabresa fatiada, cebola roxa caramelizada, azeitonas pretas e orégano, sobre uma base de molho de tomate e queijo mussarela derretido",
+        "image": "assets/pizza/Calabresa-especial.png"
+      },
+      {
+        "id": 2,
+        "name": "Pizza Quatro Queijos",
+        "price": 47.5,
+        "description": "Mussarela, gorgonzola, parmesão e catupiry, formando uma combinação irresistível de queijos derretidos",
+        "image": "assets/pizza/Quatro-queijos.png"
+      },
+      {
+        "id": 3,
+        "name": "Pizza Frango com Catupiry",
+        "price": 44.9,
+        "description": "Frango desfiado temperado, coberto com catupiry cremoso e finalizado com um toque de orégano",
+        "image": "assets/pizza/Frango-catupiry.png"
+      },
+      {
+        "id": 4,
+        "name": "Pizza Portuguesa",
+        "price": 46.0,
+        "description": "Presunto, ovos cozidos, cebola, pimentão, azeitonas, ervilhas e queijo mussarela sobre molho de tomate especial",
+        "image": "assets/pizza/Portuguesa.png"
+      },
+      {
+        "id": 5,
+        "name": "Pizza Margherita",
+        "price": 39.9,
+        "description": "Simples e clássica, com molho de tomate, mussarela, manjericão fresco e um fio de azeite",
+        "image": "assets/pizza/Margherita.png"
+      },
+      {
+        "id": 6,
+        "name": "Pizza de Chocolate com Morango",
+        "price": 49.9,
+        "description": " Chocolate ao leite derretido, coberto com morangos frescos e um toque de leite condensado",
+        "image": "assets/pizza/Chocolate-morango.png"
+      },
+      {
+        "id": 7,
+        "name": "Pizza de Banana com Canela",
+        "price": 38.9,
+        "description": "Fatias de banana caramelizadas, cobertas com açúcar e canela, sobre uma base de leite condensado",
+        "image": "assets/pizza/Banana-canela.png"
+      },
+      {
+        "id": 8,
+        "name": "Pizza de Nutella com Nozes",
+        "price": 52.0,
+        "description": "Nutella generosa espalhada sobre a massa, finalizada com nozes trituradas e raspas de chocolate branco",
+        "image": "assets/pizza/Nutella-nozes.png"
+      },
+      {
+        "id": 9,
+        "name": "Pizza de Doce de Leite com Coco",
+        "price": 41.5,
+        "description": "Doce de leite cremoso, polvilhado com coco ralado e finalizado com uma pitada de canela",
+        "image": "assets/pizza/Doce-leite-com-coco.png"
+      },
+      {
+        "id": 10,
+        "name": "Pizza de Romeu e Julieta",
+        "price": 43.9,
+        "description": "Goiabada derretida, combinada com queijo minas frescal, criando uma perfeita harmonia entre doce e salgado",
+        "image": "assets/pizza/Romeu-julieta.png"
+      }
+    ],
+    "hotDogs": [
+      {
+        "id": 1,
+        "name": "Classico da Casa",
+        "price": 10.0,
+        "description": "Pão macio, salsicha tradicional, ketchup, mostarda, maionese e batata-palha",
+        "image": "assets/hotdog/Classico-simples.png"
+      },
+      {
+        "id": 2,
+        "name": "Hot Dog Texano",
+        "price": 15.0,
+        "description": " Pão artesanal, salsicha defumada, molho barbecue, cebola crispy e queijo cheddar cremoso",
+        "image": "assets/hotdog/Hot-dog-texano.png"
+      },
+      {
+        "id": 3,
+        "name": "Explosão de Queijo",
+        "price": 18.0,
+        "description": "Pão brioche, salsicha tradicional, queijo muçarela derretido, queijo cheddar e parmesão ralado",
+        "image": "assets/hotdog/Explosao-queijo.png"
+      },
+      {
+        "id": 4,
+        "name": "Veggie Dog",
+        "price": 16.0,
+        "description": "Pão integral, salsicha vegetariana, mix de legumes grelhados, molho pesto e batata-doce chips",
+        "image": "assets/hotdog/Veggie-dog.png"
+      },
+      {
+        "id": 5,
+        "name": "Hot Dog Mexicano",
+        "price": 17.0,
+        "description": "Pão levemente apimentado, salsicha picante, guacamole, sour cream, pico de gallo e pimenta jalapeño",
+        "image": "assets/hotdog/Hot-dog-mexicano.png"
+      },
+      {
+        "id": 6,
+        "name": "Dog Supreme",
+        "price": 20.0,
+        "description": "Pão macio, duas salsichas, bacon crocante, purê de batata, molho especial da casa, queijo gratinado e batata-palha",
+        "image": "assets/hotdog/Dog-supreme.png"
+      },
+      {
+        "id": 7,
+        "name": "Francês Gourmet",
+        "price": 22.0,
+        "description": "Pão baguete, salsicha de linguiça toscana, queijo brie, geleia de pimenta e rúcula",
+        "image": "assets/hotdog/Frances-gourmet.png"
+      },
+      {
+        "id": 8,
+        "name": "Dog Tradicional Nordestino",
+        "price": 19.0,
+        "description": "Pão de milho, salsicha de carne seca, purê de macaxeira, queijo coalho ralado e toque de manteiga de garrafa",
+        "image": "assets/hotdog/Dog-tradicional-nordestino.png"
+      },
+      {
+        "id": 9,
+        "name": "Hot Dog de Estrogonofe",
+        "price": 12.0,
+        "description": "Pão francês, salsicha, estrogonofe de carne ou frango, queijo ralado e toque de orégano",
+        "image": "assets/hotdog/Hot-dog-estrogonofe.png"
+      },
+      {
+        "id": 10,
+        "name": "Hot Dog Italiano",
+        "price": 21.0,
+        "description": "Pão ciabatta, salsicha toscana, molho de tomate com manjericão, muçarela de búfala derretida e azeite de oliva",
+        "image": "assets/hotdog/Hot-dog-italiano.png"
+      }
+    ],
+    "drinks": [
+      {
+        "id": 1,
+        "name": "Coca-Cola",
+        "price": 5.0,
+        "description": "Refrigerante Coca-Cola lata, 350ml",
+        "image": "assets/drinks/Coca-cola.png"
+      },
+      {
+        "id": 2,
+        "name": "Guaraná Antarctica",
+        "price": 5.0,
+        "description": "Refrigerante Guaraná Antarctica lata, 350ml",
+        "image": "assets/drinks/Guarana.png"
+      },
+      {
+        "id": 3,
+        "name": "Sprite",
+        "price": 5.0,
+        "description": "Refrigerante Sprite sabor limão, lata 350ml",
+        "image": "assets/drinks/Sprite.png"
+      },
+      {
+        "id": 4,
+        "name": "Fanta Laranja",
+        "price": 5.0,
+        "description": "Refrigerante Fanta sabor laranja, lata 350ml",
+        "image": "assets/drinks/Fanta.png"
+      },
+      {
+        "id": 5,
+        "name": "Suco de Laranja",
+        "price": 8.0,
+        "description": "Suco natural de laranja, copo de 300ml",
+        "image": "assets/drinks/Suco-Laranja.png"
+      },
+      {
+        "id": 6,
+        "name": "Creme de Açaí com Banana",
+        "price": 12.0,
+        "description": "Açaí cremoso com pedaços de banana e granola, copo de 300ml",
+        "image": "assets/drinks/Creme-acai.png"
+      },
+      {
+        "id": 7,
+        "name": "Milkshake de Chocolate",
+        "price": 13.0,
+        "description": "Milkshake de sorvete de chocolate com calda extra, copo de 300ml",
+        "image": "assets/drinks/Milkshake-chocolate.png"
+      },
+      {
+        "id": 8,
+        "name": "Suco de Limão",
+        "price": 7.0,
+        "description": "Suco natural de limão com ou sem açúcar, copo de 300ml",
+        "image": "assets/drinks/Suco-Limao.png"
+      },
+      {
+        "id": 9,
+        "name": "Milkshake de Morango",
+        "price": 13.0,
+        "description": "Milkshake cremoso de morango, copo de 300ml",
+        "image": "assets/drinks/Milkshake-morango.png"
+      },
+      {
+        "id": 10,
+        "name": "Creme de Manga",
+        "price": 10.0,
+        "description": "Creme gelado de manga natural, copo de 300ml",
+        "image": "assets/drinks/Creme-manga.png"
+      }
+    ]
+  }
+}
