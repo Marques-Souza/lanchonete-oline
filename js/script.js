@@ -9,6 +9,14 @@ const adressWarning = document.querySelector("#adresswarning");
 let cartItems = [];
 
 function getCategory() {
+  // Mapeamento de traduções das categorias
+  const categoryTranslations = {
+    hamburgers: "Hambúrgueres",
+    pizzas: "Pizzas",
+    hotDogs: "Cachorros-Quentes",
+    drinks: "Bebidas",
+  };
+
   fetch("db.json")
     .then((response) => response.json())
     .then((data) => {
@@ -18,18 +26,21 @@ function getCategory() {
           `#${category.toLowerCase()}`
         );
         if (categoryDiv) {
-          let categoryName =
-            category.charAt(0).toUpperCase() + category.slice(1);
-          categoryName = categoryName.replace(/([a-z])([A-Z])/g, "$1 $2");
+          // Obter a tradução ou usar o nome original
+          let categoryName = categoryTranslations[category] || category;
+
+          // Criar o título da categoria
           const categoryTitle = document.createElement("h2");
           categoryTitle.textContent = categoryName;
           categoryDiv.appendChild(categoryTitle);
+
+          // Exibir os produtos da categoria
           displayCategoryProducts(products[category], categoryDiv);
         }
       }
     })
     .catch((error) => {
-      console.error("Error fetching data:", error);
+      console.error("Erro ao buscar dados:", error);
     });
 }
 

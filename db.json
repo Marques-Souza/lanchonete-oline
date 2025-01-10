@@ -5,14 +5,14 @@
         "id": 1,
         "name": "Hambúrguer Clássico",
         "price": 19.9,
-        "description": "Pão de brioche, carne suculenta de 180g, queijo cheddar, alface, tomate e maionese artesanal",
+        "description": "Pão brioche, carne suculenta de 180g, queijo cheddar, alface, tomate e maionese artesanal",
         "image": "assets/hamburguer/Hamburguer-Classico.png"
       },
       {
         "id": 2,
         "name": "Cheddar Bacon",
         "price": 22.9,
-        "description": "Pão de brioche, carne de 180g, queijo cheddar derretido, bacon crocante, alface e molho especial",
+        "description": "Pão brioche, carne de 180g, queijo cheddar derretido, bacon crocante, alface e molho especial",
         "image": "assets/hamburguer/Cheddar-Bacon.png"
       },
       {
@@ -26,49 +26,49 @@
         "id": 4,
         "name": "Bacon BBQ",
         "price": 23.9,
-        "description": "Pão de brioche, carne de 180g, queijo cheddar, bacon crocante, cebola caramelizada e molho barbecue",
+        "description": "Pão brioche, carne de 180g, queijo cheddar, bacon crocante, cebola caramelizada e molho barbecue",
         "image": "assets/hamburguer/Bacon-BBQ.png"
       },
       {
         "id": 5,
         "name": "Hawaian Burger",
         "price": 25.0,
-        "description": "Pão de brioche, carne de 180g, queijo suíço, abacaxi grelhado, presunto e molho teriyaki",
+        "description": "Pão brioche, carne de 180g, queijo suíço, abacaxi grelhado, presunto e molho teriyaki",
         "image": "assets/hamburguer/Hawaian-Burger.png"
       },
       {
         "id": 6,
         "name": "Double Cheeseburger",
         "price": 29.9,
-        "description": "Pão de brioche, duas carnes de 180g, queijo cheddar, alface, tomate e molho especial",
+        "description": "Pão brioche, duas carnes de 180g, queijo cheddar, alface, tomate e molho especial",
         "image": "assets/hamburguer/Double-Cheeseburger.png"
       },
       {
         "id": 7,
         "name": "Burger Fritas",
         "price": 26.0,
-        "description": "Pão de brioche, carne de 180g, queijo cheddar, bacon, cebola frita, alface e batata frita crocante",
+        "description": "Pão brioche, carne de 180g, queijo cheddar, bacon, cebola frita, alface e batata frita crocante",
         "image": "assets/hamburguer/Burger-Fritas.png"
       },
       {
         "id": 8,
         "name": "Tex-Mex Burger",
         "price": 24.9,
-        "description": "Pão de brioche, carne de 180g, queijo cheddar, guacamole, jalapeño e molho picante",
+        "description": "Pão brioche, carne de 180g, queijo cheddar, guacamole, jalapeño e molho picante",
         "image": "assets/hamburguer/Tex-Mex-Burger.png"
       },
       {
         "id": 9,
         "name": "Hambúrguer de Frango Crocante",
         "price": 21.0,
-        "description": "Pão de brioche, filé de frango empanado crocante, queijo cheddar, alface, tomate e maionese caseira",
+        "description": "Pão brioche, filé de frango empanado crocante, queijo cheddar, alface, tomate e maionese caseira",
         "image": "assets/hamburguer/Hamburguer-Frango.png"
       },
       {
         "id": 10,
         "name": "Melt Burger",
         "price": 27.0,
-        "description": "Pão de brioche, carne de 180g, queijo cheddar, queijo muçarela derretido, bacon crocante e molho de mostarda e mel",
+        "description": "Pão brioche, carne de 180g, queijo cheddar, queijo muçarela derretido, bacon crocante e molho de mostarda e mel",
         "image": "assets/hamburguer/Melt-Burger.png"
       }
     ],
@@ -163,7 +163,7 @@
         "id": 3,
         "name": "Explosão de Queijo",
         "price": 18.0,
-        "description": "Pão brioche, salsicha tradicional, queijo muçarela derretido, queijo cheddar e parmesão ralado",
+        "description": "Pão brioche, salsicha tradicional, queijo mussarela derretido, queijo cheddar e parmesão ralado",
         "image": "assets/hotdog/Explosao-queijo.png"
       },
       {
