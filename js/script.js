@@ -13,7 +13,7 @@ function getCategory() {
   const categoryTranslations = {
     hamburgers: "Hambúrgueres",
     pizzas: "Pizzas",
-    hotDogs: "Cachorros-Quentes",
+    hotDogs: "HotDogs",
     drinks: "Bebidas",
   };
 
